@@ -18,7 +18,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://amberstruckman.github.io/clicky-app/",
+  
   "browserslist": [
     ">0.2%",
     "not dead",
